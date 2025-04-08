@@ -1,0 +1,17 @@
+#!/bin/env zsh
+
+# Miscellaneous
+alias ls="ls -la"
+
+# Git and GitHub
+alias gitgit="/usr/bin/git"
+alias git="/opt/homebrew/bin/gh"
+
+# Editor
+alias vim="nvim"
+alias vs="/opt/homebrew/bin/code"
+alias code="/opt/homebrew/bin/zed"
+
+# Kubernetes
+alias k="/opt/homebrew/bin/kubectl"
+alias kube="/opt/homebrew/bin/kubectl"
