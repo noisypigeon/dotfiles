@@ -22,6 +22,7 @@ brew 'git'
 brew 'gh'
 brew 'awscli'
 brew 'jq'
+brew 'neovim'
 
 # Kubernetes
 brew 'k9s'
